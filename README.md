@@ -1,4 +1,4 @@
-# Deacon
+
 <h1>Online Chat Application (Deacon) </h1>
 This is an android chat app. Now a days the digital communication industry 
 is evolving rapidly. A chat application makes it easy to communicate with 
